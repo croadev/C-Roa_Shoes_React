@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1",
+    "name": "Air Jordan 1 Mid SE",
+    "price": 79990,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454453-1000-1000?v=1773529601&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "2",
+    "name": "Air Jordan 1 Low",
+    "price": 79990,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/327246-1000-1000?v=1773596856&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "3",
+    "name": "Air Jordan 1 Low SE",
+    "price": 79990,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454492-1000-1000?v=1773594393&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "4",
+    "name": "Air jordan 5 Retro Green Bean",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/156959-1000-1000?v=1773546334&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "5",
+    "name": "Air Jordan 7 Retro",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/614101-1000-1000?v=1773343231&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "6",
+    "name": "Air Jordan 5 Retro",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/497821-1000-1000?v=1773544690&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "7",
+    "name": "Air Jordan 5 Retro",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/529565-1000-1000?v=1773550211&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "8",
+    "name": "Air Jordan 3 Retro",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/155919-1000-1000?v=1773536130&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "9",
+    "name": "Air Jordan 4 Retro",
+    "price": 114999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/452693-1000-1000?v=1773512258&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "10",
+    "name": "Nike Air Max 97",
+    "price": 93999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/453611-1000-1000?v=1773528830&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "11",
+    "name": "Nike Air Max 90 SE",
+    "price": 77990,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/455361-1000-1000?v=1773597212&width=1000&height=1000&aspect=true",
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "12",
+    "name": "Nike Air Max 90 Excee",
+    "price": 57599,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/238290-1000-1000?v=1773531937&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "13",
+    "name": "Nike Air Max 1 Premium",
+    "price": 93999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/455392-1000-1000?v=1773525447&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "14",
+    "name": "Nike Air Max 97 OG",
+    "price": 102999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/497926-1000-1000?v=1773342725&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "15",
+    "name": "Nike Air Max 95",
+    "price": 97999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454578-1000-1000?v=1773502111&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "16",
+    "name": "Nike Air Max TW",
+    "price": 91999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/453643-1000-1000?v=1773463529&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "17",
+    "name": "Nike Air Max Flyknit Racer Next Nature",
+    "price": 94999,
+    "category": "Jordan",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454453-1000-1000?v=1773529601&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Jordan Para Hombre"
+  },
+
+  {
+    "id": "18",
+    "name": "Nike Air Max Alpha Trainer 5",
+    "price": 47999,
+    "category": "Air Max",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/498022-1000-1000?v=1773586419&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Max Para Hombre"
+  },
+
+  {
+    "id": "19",
+    "name": "Nike Air Force 1 '07 ",
+    "price": 66999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/155412-1000-1000?v=1773601831&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "20",
+    "name": "Nike Air Force 1 '07 Premium Vintage",
+    "price": 86999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454453-1000-1000?v=1773529601&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "21",
+    "name": "Nike Air Force 1 '07 LV8",
+    "price": 74999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/531573-1000-1000?v=1773601683&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "22",
+    "name": "Nike Air Force 1 Mid '07 LX",
+    "price": 86999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/531691-1000-1000?v=1773538535&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "23",
+    "name": "Nike Air Force 1 React",
+    "price": 82999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/600625-1000-1000?v=1773343183&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "24",
+    "name": "Nike Lunar Force 1 Lunar",
+    "price": 107999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/528979-1000-1000?v=1773691173&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "25",
+    "name": "Nike Air Force 1 Mid React",
+    "price": 86999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/595254-1000-1000?v=1773616412&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "26",
+    "name": "Nike Air Force 1 Crater",
+    "price": 66999,
+    "category": "Air Force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/456821-1000-1000?v=1773618328&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "27",
+    "name": "Nike Air Force 1 39",
+    "price": 74999,
+    "category": "Air force 1",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/158165-1000-1000?v=1773342807&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Air Force 1 Para Hombre"
+  },
+
+  {
+    "id": "28",
+    "name": "Nike Dunk Mid",
+    "price": 66990,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/532052-1000-1000?v=1773674136&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "29",
+    "name": "Nike Dunk Low Retro SE",
+    "price": 66999,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/532126-1000-1000?v=1773694340&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "30",
+    "name": "Nike Dunk High Retro SE",
+    "price": 74999,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/531956-1000-1000?v=1773624333&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "31",
+    "name": "Nike Dunk High Retro",
+    "price": 69990,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/452118-1000-1000?v=1773688843&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "32",
+    "name": "Nike Dunk High Premium",
+    "price": 79999,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/455612-1000-1000?v=1773440970&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "33",
+    "name": "Nike SB Dunk High Pro",
+    "price": 72990,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/498927-1000-1000?v=1773599971&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "34",
+    "name": "Nike Dunk Low Retro Premium",
+    "price": 72999,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/454321-1000-1000?v=1773343143&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "35",
+    "name": "Nike Dunk Low Retro SE Next Nature",
+    "price": 79990,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/156695-1000-1000?v=1773675136&width=1000&height=1000&aspect=true",
+    "description": "Zapatillas Dunk Para Hombre"
+  },
+
+  {
+    "id": "36",
+    "name": "Nike Dunk High Retro EMB",
+    "price": 74999,
+    "category": "Dunk",
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/438866-1000-1000?v=1773499501&width=1000&height=1000&aspect=true",
+    "stock": 30,
+    "description": "Zapatillas Dunk Para Hombre"
+  }
+]
