@@ -1,5 +1,3 @@
-import ItemCount from "./itemCount";
-
 const Item = ({ info }) => {
   return (
     <>
@@ -13,13 +11,6 @@ const Item = ({ info }) => {
             <a href="#" class="btn btn-primary">
               Ver Mas
             </a>
-            <ItemCount
-              initial={1}
-              stock={10}
-              onAdd={(quantity) =>
-                console.log(`Agregaste ${quantity} articulos`)
-              }
-            />
           </div>
         </div>
       </div>
