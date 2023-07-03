@@ -36,7 +36,7 @@ const ItemCount = ({ initial, stock, onAdd }) => {
         <button
           disabled={stock <= 0}
           onClick={() => onAdd(count)}
-          className="btn btn-primary fs-5 fw-bold text-uppercase py-1 my-2 w-100"
+          className="btn btn-primary fs-5 fw-bold text-uppercase py-1 my-2 w-50"
         >
           Agregar Al Carrito
         </button>
