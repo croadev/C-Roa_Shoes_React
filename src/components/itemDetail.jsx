@@ -1,6 +1,10 @@
 import ItemCount from "./itemCount";
+import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const ItemDetail = ({ data }) => {
+  const [cart, setCart] = useState(false);
+
   return (
     <>
       <div class="row g-0 pt-4 mb-4">
@@ -11,11 +15,20 @@ const ItemDetail = ({ data }) => {
           <h3 class="fw-bold">{data.name}</h3>
           <p>{data.description}</p>
           <p class="fs-1 fw-bold">${data.price}</p>
-          <ItemCount
-            initial={1}
-            stock={10}
-            onAdd={(quantity) => console.log(`Agregaste ${quantity} articulos`)}
-          />
+          {cart ? (
+            <Link
+              to="/cart"
+              className="btn btn-primary w-50 fw-bold text-uppercase mx-auto"
+            >
+              Finalizar Compra
+            </Link>
+          ) : (
+            <ItemCount
+              initial={1}
+              stock={10}
+              onAdd={(quantity) => setCart(true)}
+            />
+          )}
         </div>
       </div>
       ;

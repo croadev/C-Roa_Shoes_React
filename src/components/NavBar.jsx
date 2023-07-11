@@ -29,7 +29,7 @@ const NavBar = () => {
               to="/category/Jordan"
               className="text-decoration-none text-dark fs-4"
             >
-              jordan
+              Jordan
             </NavLink>
             <NavLink
               to="/category/AirMax"
