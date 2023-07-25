@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.names-container {
+  margin-left: 25%;
+}
+.product-container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #f6f6f6;
+}
+.product-description {
+  padding-right: 4%;
+}
+.description-container {
+  padding-top: 3%;
+}
+
+@media (max-width: 860px) {
+  .description-container {
+    display: none !important;
+  }
+  .product-container-description {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .product-description {
+    flex-direction: column;
+  }
+  .shoes-text {
+    flex-direction: column;
+  }
+  .responsive-text-cantidad::before {
+    content: "Cantidad: ";
+  }
+  .responsive-text-subtotal::before {
+    content: "Subtotal: ";
+  }
+}
