@@ -2,6 +2,7 @@ import ItemCount from "./itemCount";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useCartContext } from "../context/CartContext";
+import { getFirestore, doc, getDoc } from "../firebase/config";
 
 const ItemDetail = ({ data }) => {
   const [cart, setCart] = useState(false);
