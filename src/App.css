@@ -45,9 +45,6 @@
   margin: 0 auto;
   background-color: #f6f6f6;
 }
-.product-description {
-  padding-right: 4%;
-}
 .description-container {
   padding-top: 3%;
 }
@@ -73,4 +70,8 @@
   .responsive-text-subtotal::before {
     content: "Subtotal: ";
   }
+}
+
+.bi {
+  font-size: 30px;
 }

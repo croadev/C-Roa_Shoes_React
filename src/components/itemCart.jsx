@@ -31,20 +31,19 @@ const ItemCart = ({ product }) => {
             </div>
           </div>
 
-          <div class="d-flex justify-content-around align-items-center col-7 product-description">
+          <div class="d-flex justify-content-around align-items-center col-8 product-description">
             <h5 class="responsive-text">${product.price}</h5>
-            <h5 class="responsive-text-cantidad">${product.quantity}</h5>
+            <h5 class="responsive-text-cantidad">{product.quantity}</h5>
             <h5 class="responsive-text-subtotal">
               ${product.quantity * product.price}
             </h5>
 
             {
-              <button
+              <i
+                class="bi bi-trash"
+                style={{ cursor: "pointer" }}
                 onClick={() => removeFromCart(product.id)}
-                class="btn btn-primary"
-              >
-                Eliminar
-              </button>
+              ></i>
             }
           </div>
         </div>
