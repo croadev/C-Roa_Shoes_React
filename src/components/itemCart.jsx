@@ -19,7 +19,7 @@ const ItemCart = ({ product }) => {
       <div className="product-container ">
         <hr />
         <div className="d-flex space-between  product-container-description">
-          <div class="col-5">
+          <div className="col-5">
             <div className="d-flex align-items-center shoes-text">
               <img
                 className="card-img-top"
@@ -31,16 +31,16 @@ const ItemCart = ({ product }) => {
             </div>
           </div>
 
-          <div class="d-flex justify-content-around align-items-center col-8 product-description">
-            <h5 class="responsive-text">${product.price}</h5>
-            <h5 class="responsive-text-cantidad">{product.quantity}</h5>
-            <h5 class="responsive-text-subtotal">
+          <div className="d-flex justify-content-around align-items-center col-8 product-description">
+            <h5 className="responsive-text">${product.price}</h5>
+            <h5 className="responsive-text-cantidad">{product.quantity}</h5>
+            <h5 className="responsive-text-subtotal">
               ${product.quantity * product.price}
             </h5>
 
             {
               <i
-                class="bi bi-trash"
+                className="bi bi-trash"
                 style={{ cursor: "pointer" }}
                 onClick={() => removeFromCart(product.id)}
               ></i>

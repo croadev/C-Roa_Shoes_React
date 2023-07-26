@@ -7,7 +7,7 @@ const CardWidget = () => {
   return (
     <Link className="text-decoration-none text-dark" to="/cart">
       <img src={carrito} alt="" />{" "}
-      <span class="fs-4 mx-2">{totalProducts() || ""}</span>
+      <span className="fs-4 mx-2">{totalProducts() || ""}</span>
     </Link>
   );
 };
