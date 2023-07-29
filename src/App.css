@@ -75,3 +75,23 @@
 .bi {
   font-size: 30px;
 }
+
+.form-register {
+  width: 50%;
+  background: #f6f6f6;
+  padding: 30px;
+  margin: auto;
+  margin-top: 20px;
+  font-family: "calibri";
+  color: black;
+}
+
+.controls {
+  width: 100%;
+  background: #f6f6f6;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-size: 18px;
+}

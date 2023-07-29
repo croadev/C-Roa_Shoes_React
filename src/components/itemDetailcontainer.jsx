@@ -11,7 +11,6 @@ const ItemDetailContainer = () => {
     const queryDoc = doc(querydb, "products", id);
     getDoc(queryDoc).then((res) => setShoes({ id: res.id, ...res.data() }));
   }, [id]);
-  console.log(shoes);
   return <ItemDetail data={shoes} />;
 };
 
