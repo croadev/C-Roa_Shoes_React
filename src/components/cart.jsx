@@ -93,7 +93,7 @@ const Cart = () => {
           name="dni"
         />
 
-        <button type="submit" class="btn btn-primary" onClick={sendOrder}>
+        <button type="button" class="btn btn-primary" onClick={sendOrder}>
           Submit
         </button>
       </form>
